@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892522970929",
+    "firebase_url": "https://kotlinrecog.firebaseio.com",
+    "project_id": "kotlinrecog",
+    "storage_bucket": "kotlinrecog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892522970929:android:9f23117a2d1c54f45d7a10",
+        "android_client_info": {
+          "package_name": "com.ample.kotlinrecog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892522970929-tdnv8jslnpmke6ho3462uhcbboar1172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Y7Ml-d23WQsDKnV5Q4seSuBhQjk6uz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892522970929-tdnv8jslnpmke6ho3462uhcbboar1172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
